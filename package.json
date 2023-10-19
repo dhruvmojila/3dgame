@@ -1,7 +1,7 @@
 {
-  "name": "r3f-vite-starter",
+  "name": "r3f-loading-animations",
   "private": true,
-  "version": "1.0.0",
+  "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -9,15 +9,14 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@react-three/drei": "9.75.0",
-    "@react-three/fiber": "8.13.3",
-    "@react-three/rapier": "^1.1.2",
-    "@types/three": "0.152.1",
-    "leva": "^0.9.35",
+    "@react-three/drei": "^9.68.3",
+    "@react-three/fiber": "^8.13.0",
+    "@react-three/rapier": "^0.15.1",
+    "leva": "^0.9.34",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "three": "0.153.0",
-    "zustand": "^4.4.3"
+    "three": "^0.150.1",
+    "zustand": "^4.3.7"
   },
   "devDependencies": {
     "@types/react": "^18.0.27",
